@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(33, 31, 30);
+}
+
+.sinif{
+    text-align: center;
+    color: burlywood;
+}
+
+.all{
+    width: 100%;
+}
+
+.baslik{
+    color: rgb(4, 109, 41);
+    margin-top: 75px;
+ 
+}
+
+.ozel-div{
+    color: aquamarine;
+    text-align: left;
+    float: left;
+    width: 25%;
+}
+
+.ozel-div2{
+    color: blue;
+    padding-top: 3.4%;
+    float: right;
+}
+
+.ozel-center{
+    width: 300px;
+    text-align: left;
+}
